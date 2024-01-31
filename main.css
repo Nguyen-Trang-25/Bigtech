@@ -85,7 +85,7 @@ header{
 }
 
 #banner{
-    background-image: url(banner_bg02.jpg);
+    background-image: url(/IMG/banner_bg02.jpg);
     background-size: cover;
     background-position: center;
     position: absolute;
